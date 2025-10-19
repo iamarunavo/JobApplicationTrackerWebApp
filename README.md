@@ -1,4 +1,4 @@
-# 💼 ARCANE Jobs - Job Application Tracker
+# 💼 ARCANE Job Tracker (Task 8 - Elevvo Pathways Web Development Internship)
 
 ARCANE Jobs is a sleek and responsive web application that helps job seekers efficiently track and manage their job applications. It features a purple dark mode interface with intuitive status tracking, and a dynamic dashboard for monitoring progress across every stage of the job search.
 
