@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "exportDate": "2025-10-18T12:00:00.000Z",
+    "version": "1.0",
+    "appName": "ARCANE JOBS",
+    "jobCount": 5
+  },
+  "jobs": [
+    {
+      "id": "1",
+      "companyName": "OpenAI",
+      "jobTitle": "Frontend Engineer Intern",
+      "status": "Interviewing",
+      "appliedDate": "2025-09-12",
+      "notes": "Completed first-round technical interview. Waiting for feedback.",
+      "lastUpdated": "2025-10-18T12:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "companyName": "Google",
+      "jobTitle": "Software Engineering Intern",
+      "status": "Applied",
+      "appliedDate": "2025-10-01",
+      "notes": "Applied through university portal. Resume tailored for large-scale systems.",
+      "lastUpdated": "2025-10-18T12:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "companyName": "Vercel",
+      "jobTitle": "Frontend Developer",
+      "status": "Offer",
+      "appliedDate": "2025-08-28",
+      "notes": "Received verbal offer. Negotiating compensation package.",
+      "lastUpdated": "2025-10-18T12:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "companyName": "Notion",
+      "jobTitle": "Product Designer Intern",
+      "status": "Rejected",
+      "appliedDate": "2025-07-10",
+      "notes": "Received a polite rejection. Great interview experience overall.",
+      "lastUpdated": "2025-10-18T12:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "companyName": "Linear",
+      "jobTitle": "UI/UX Engineer",
+      "status": "Interviewing",
+      "appliedDate": "2025-09-25",
+      "notes": "Scheduled final interview next week. Studying system design questions.",
+      "lastUpdated": "2025-10-18T12:00:00.000Z"
+    }
+  ]
+}
